@@ -1,5 +1,3 @@
-package com.krakedev;
-
 public class veterinario {
 	private String nombre;
 	private String apellido;
