@@ -1,11 +1,11 @@
-public class veterinario {
+public class Veterinario {
 	private String nombre;
 	private String apellido;
 	private String matricula;
 	private String especialidad;
 	private int aniosExperiencia;
 	
-		public veterinario(String nombre , String apellido, String matricula
+		public Veterinario(String nombre , String apellido, String matricula
 				          , String especialdad, int aniosExperiencia) {
 			setNombre(nombre);
 			setApellido(apellido);
