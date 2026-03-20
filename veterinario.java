@@ -55,4 +55,8 @@ public class veterinario {
 					               "\nEspecialidad: " + especialidad +
 					               "\nAños de experiencia: " + aniosExperiencia;
 					          }
+
+                     public String getEspecialidad() {
+                         return especialidad;
+                     }
 }
